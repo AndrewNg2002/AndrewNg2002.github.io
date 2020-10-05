@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq.pub</id>
     <title>谦哥博客</title>
-    <updated>2020-10-05T15:38:49.571Z</updated>
+    <updated>2020-10-05T15:45:33.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq.pub"/>
     <link rel="self" href="https://wzq.pub/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://wzq.pub/images/avatar.png</logo>
     <icon>https://wzq.pub/favicon.ico</icon>
     <rights>All rights reserved 2020, 谦哥博客</rights>
+    <entry>
+        <title type="html"><![CDATA[言论自由圣地 : Gab]]></title>
+        <id>https://wzq.pub/post/Kcv8rZsvy/</id>
+        <link href="https://wzq.pub/post/Kcv8rZsvy/">
+        </link>
+        <updated>2020-10-05T15:40:37.000Z</updated>
+        <content type="html"><![CDATA[<p>Gab是一个美国的社交网络服务， 宣称其支持“言论自由”和为Twitter的替代品。它允许用户发表最多300个字符的消息，称为“gabs”。Gab 将全世界的保守主义者、民族主义者和民粹主义者视为目标市场，并将极右翼阴谋论网站布赖特巴特新闻网和InfoWars视为其主要竞争对手。Gab吸引了很多新纳粹分子，白人至上主义者，恐怖分子和极右翼分子。</p>
+<p>2018年匹兹堡犹太教堂枪击案的主要嫌疑人在Gab上有经过认证的账户，在枪击事件发生后，Gab移除了他的个人资料，并向FBI提供了信息。不久之后，在2018年10月27日，PayPal终止了与Gab的关系。随后，Gab的托管服务商Joyent于周一终止服务。Gab的首席执行官安德鲁·托尔巴声明，他会竭尽所能保持服务运转，捍卫言论自由和个人自由。2019年7月，Gab正式采用基于Mastodon的新网站平台，引起部分人士的不满。</p>
+<p>*目前该社交网站还没有被防火墙ban</p>
+<p><em>官方网站:https://gab.com</em></p>
+<p><em>本站官方Gab:https://gab.com/wzq</em></p>
+<p><em>资料来源:https://zh.wikipedia.org/wiki/Gab</em></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最高法院驳回了前肯塔基县办事员金·戴维斯的上诉]]></title>
         <id>https://wzq.pub/post/keUoaTUbp/</id>
