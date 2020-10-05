@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wzq.pub</id>
+    <title>谦哥博客</title>
+    <updated>2020-10-05T15:09:03.481Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wzq.pub"/>
+    <link rel="self" href="https://wzq.pub/atom.xml"/>
+    <subtitle>欢迎来到我的博客</subtitle>
+    <logo>https://wzq.pub/images/avatar.png</logo>
+    <icon>https://wzq.pub/favicon.ico</icon>
+    <rights>All rights reserved 2020, 谦哥博客</rights>
+</feed>
