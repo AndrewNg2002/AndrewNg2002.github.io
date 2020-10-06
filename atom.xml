@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq.pub</id>
     <title>谦哥博客</title>
-    <updated>2020-10-06T09:39:33.606Z</updated>
+    <updated>2020-10-06T13:11:33.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq.pub"/>
     <link rel="self" href="https://wzq.pub/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://wzq.pub/images/avatar.png</logo>
     <icon>https://wzq.pub/favicon.ico</icon>
     <rights>All rights reserved 2020, 谦哥博客</rights>
+    <entry>
+        <title type="html"><![CDATA[同一局域网下电脑不能上Github而手机可以上的解决方法]]></title>
+        <id>https://wzq.pub/post/cHWqKWw5d/</id>
+        <link href="https://wzq.pub/post/cHWqKWw5d/">
+        </link>
+        <updated>2020-10-06T13:08:33.000Z</updated>
+        <content type="html"><![CDATA[<p>1.进入 C:\Windows\System32\Drivers\etc</p>
+<p>2.打开该目录下的hosts文件（可以通过记事本打开，不过可能需要权限，或是notepad++，这里推荐notepad++)</p>
+<p>3.在hosts文件里添加如下内容</p>
+<pre><code>#github
+140.82.113.3 github.com
+199.232.69.194 github.global.ssl.fastly.net
+</code></pre>
+<p>上面的两个IP每个人是不同的，所以需要自己替换。</p>
+<p>第一个IP通过http://github.com.ipaddress.com/查询<br>
+第二个IP通过http://github.global.ssl.fastly.net.ipaddress.com/ 查询</p>
+<p>4.添加完成后，保存hosts文件</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12个州的选民登记将于周一结束]]></title>
         <id>https://wzq.pub/post/2vPp8ZeM0/</id>
