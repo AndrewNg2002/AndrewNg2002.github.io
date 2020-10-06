@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq.pub</id>
     <title>谦哥博客</title>
-    <updated>2020-10-06T13:11:57.374Z</updated>
+    <updated>2020-10-06T13:13:44.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq.pub"/>
     <link rel="self" href="https://wzq.pub/atom.xml"/>
@@ -19,10 +19,8 @@
         <content type="html"><![CDATA[<p>1.进入 C:\Windows\System32\Drivers\etc</p>
 <p>2.打开该目录下的hosts文件（可以通过记事本打开，不过可能需要权限，或是notepad++，这里推荐notepad++)</p>
 <p>3.在hosts文件里添加如下内容</p>
-<pre><code>#github
-140.82.113.3 github.com
-199.232.69.194 github.global.ssl.fastly.net
-</code></pre>
+<p>140.82.113.3 github.com<br>
+199.232.69.194 github.global.ssl.fastly.net</p>
 <p>上面的两个IP每个人是不同的，所以需要自己替换。</p>
 <p>第一个IP通过http://github.com.ipaddress.com/查询<br>
 第二个IP通过http://github.global.ssl.fastly.net.ipaddress.com/ 查询</p>
