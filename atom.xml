@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq.pub</id>
     <title>谦哥博客</title>
-    <updated>2020-10-10T15:14:16.048Z</updated>
+    <updated>2020-10-10T17:52:56.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq.pub"/>
     <link rel="self" href="https://wzq.pub/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://wzq.pub/images/avatar.png</logo>
     <icon>https://wzq.pub/favicon.ico</icon>
     <rights>All rights reserved 2020, 谦哥博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Taylor Swift的粉丝信箱地址]]></title>
+        <id>https://wzq.pub/post/XuUTt9zQW/</id>
+        <link href="https://wzq.pub/post/XuUTt9zQW/">
+        </link>
+        <updated>2020-10-10T17:11:57.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>想知道如何写信给霉霉但不知道寄去哪？你可以通过下面的官方粉丝信箱地址来联系她：</strong></p>
+<p><strong>Taylor Swift<br>
+c/o Taylor Swift Entertainment<br>
+242 West Main Street<br>
+PMB 412<br>
+Hendersonville, TN 37075<br>
+USA</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女性向其他新娘免费借用设计师设计的婚纱]]></title>
         <id>https://wzq.pub/post/0bO7F8PET/</id>
@@ -227,27 +242,6 @@
 <p>法官们表示:“对于大陪审团来说，寻求可能包括一些最终被证明对大陪审团的调查毫无帮助的文件类别，这既不罕见，也不违法。”</p>
 <p>针对特朗普的说法，传票是出于恶意和报复意图发出的，法院表示，“传唤马扎尔的传票是发给第三方托管人，这一事实并不会给总统的恶意索赔增加任何证据。”这种传票是例行公事。”</p>
 <p>第二巡回法院表示:“传票指向总统的会计，而不是总统本人，并不能阻止总统对传票的反对。”“另一方面，它减轻了总统监督和负责遵守规定的责任，从而使总统免除了可能妨碍其职务的义务。”</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐心象棋助手智能自动下棋引擎]]></title>
-        <id>https://wzq.pub/post/W8kIkroZt/</id>
-        <link href="https://wzq.pub/post/W8kIkroZt/">
-        </link>
-        <updated>2020-10-07T15:30:29.000Z</updated>
-        <content type="html"><![CDATA[<p>自动下象棋，兼容大部分象棋平台，支持第3方引擎，支持自定义引擎，支持自定义棋盘棋子风格</p>
-<p>使用说明：</p>
-<p>1：自己跟AI下棋：</p>
-<p>取消全自动走棋，不需要选取棋盘，点击开始游戏即可</p>
-<p>2：在平台跟玩家下棋：</p>
-<p>a，选取平台棋盘</p>
-<p>b，选择先走棋方</p>
-<p>c，勾选全自动走棋（默认是勾选的，如果不想自动走棋，则取消勾选即可）</p>
-<p>d，在平台上开始游戏（要确定是游戏已经开始了）</p>
-<p>e，点击开始游戏</p>
-<p>（如果当前棋局时对方先手时，这时只需手动按照对方走棋点击对方棋子即可，走第一步之后就可以正常自动识别自动走棋了）</p>
-<p><a href="https://pan.baidu.com/s/1vAxoWUiZKmSyWOt94o7QJw">点我下载</a><br>
-提取码:yqjb</p>
 ]]></content>
     </entry>
 </feed>
